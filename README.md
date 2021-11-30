@@ -1,1 +1,1 @@
-![alt text](/assets/img/snapshot.png)
+![alt text](assets\img\snapshot.png)
