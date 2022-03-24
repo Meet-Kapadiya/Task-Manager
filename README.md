@@ -4,6 +4,6 @@
 ![snapshot](./assets/img/snapshot.png)
 
 ## Stack Used 
-- nodeJS
-- mongoDB
-- reactJs
+- NodeJS
+- MongoDB
+- ReactJs
